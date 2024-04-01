@@ -48,6 +48,10 @@ I'm Kevin Morris, a full-stack developer passionate about crafting robust and sc
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="45" height="45"/>
 </p>
 
+## Statistics 📊
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevindmorris&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Let's Connect! 💬
 
 - [LinkedIn](https://www.linkedin.com/in/kev-morris/)
