@@ -6,17 +6,17 @@ I'm Kevin Morris, a full-stack developer passionate about crafting robust and sc
 
 ## My Interests 💖
 
-- Creating intuitive user interfaces
-- Exploring new frontend frameworks and libraries
-- Improving web accessibility and performance
-- Building RESTful APIs
-- Continuous integration and deployment (CI/CD)
-- Interest in build tools for streamlining development workflows
-- Mastering responsive web design techniques
-- Delving into web accessibility and ensuring inclusive user experiences
-- Optimizing website performance for speed and efficiency
+- Creating intuitive user interfaces: 🎨
+- Exploring new frontend frameworks and libraries: 🧰
+- Improving web accessibility and performance: 📈
+- Building RESTful APIs: 🌐
+- Continuous integration and deployment (CI/CD): 🔄
+- Interest in build tools for streamlining development workflows: 🛠️
+- Mastering responsive web design techniques: 📱
+- Delving into web accessibility and ensuring inclusive user experiences: ♿
+- Optimizing website performance for speed and efficiency: ⚡
 
-## Tech Stack 🚀 
+## Tech Stack 🚀
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -48,7 +48,7 @@ I'm Kevin Morris, a full-stack developer passionate about crafting robust and sc
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="45" height="45"/>
 </p>
 
-## Let's Connect! 💬 
+## Let's Connect! 💬
 
 - [LinkedIn](https://www.linkedin.com/in/kev-morris/)
 
