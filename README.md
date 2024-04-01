@@ -6,15 +6,15 @@ I'm Kevin Morris, a full-stack developer passionate about crafting robust and sc
 
 ## My Interests 💖
 
-- Creating intuitive user interfaces: 🎨
-- Exploring new frontend frameworks and libraries: 🧰
-- Improving web accessibility and performance: 📈
-- Building RESTful APIs: 🌐
-- Continuous integration and deployment (CI/CD): 🔄
-- Interest in build tools for streamlining development workflows: 🛠️
-- Mastering responsive web design techniques: 📱
-- Delving into web accessibility and ensuring inclusive user experiences: ♿
-- Optimizing website performance for speed and efficiency: ⚡
+- Creating intuitive user interfaces 🎨
+- Exploring new frontend frameworks and libraries 🧰
+- Improving web accessibility and performance 📈
+- Building RESTful APIs 🌐
+- Continuous integration and deployment (CI/CD) 🔄
+- Interest in build tools for streamlining development workflows 🛠️
+- Mastering responsive web design techniques 📱
+- Delving into web accessibility and ensuring inclusive user experiences ♿
+- Optimizing website performance for speed and efficiency ⚡
 
 ## Tech Stack 🚀
 
