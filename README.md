@@ -6,51 +6,36 @@ I'm a **full stack developer** who specializes in **frontend development**.
 
 ## 🔧 Tech Stack
 
-**Frontend**
+## Languages
+- JavaScript  
+- TypeScript  
+- Java  
+- Go  
 
-- TypeScript
-- JavaScript
-- React
-- Vue
-- Vite
-- Material UI
-- Tailwindcss
-- Redux
-- Zustand
-- Pinia
-- Axios
-- Jest
-- Vitest
+## Frameworks & Libraries
+- **Frontend:** React, Vue, Material UI, Tailwind CSS, Vite
+- **State Management:** Redux, Zustand  
+- **Backend:** Spring Boot, Node.js
 
-**Backend**
+## Testing
+- Jest  
 
-- Node.js
-- Java
-- Spring Boot
-- Keycloak
+## Authentication & Security
+- Keycloak  
 
-**Database**
+## Databases
+- PostgreSQL  
+- MongoDB  
 
-- PostgreSQL
-- MongoDB
+## DevOps & Infrastructure
+- Git  
+- Docker  
+- Docker Compose  
+- Nginx  
+- Jenkins  
 
-**Tools & DevOps**
-
-- Git
-- Docker
-- Docker Compose
-- Nginx
-- Jenkins
-- VS Code
-
----
-
-## 📌 What I'm Focusing On
-
-- Learning by doing — pushing code, solving problems, and continuously **improving through practice**.
-- Exploring modern frontend **tooling, libraries, and design systems** to deepen my expertise.
-- Building **personal projects** to experiment with new technologies and creative ideas.
-- Contributing to open source projects and sharing knowledge to grow as a **well-rounded full stack developer**.
+## Tools & Editors
+- VS Code  
 
 ---
 
