@@ -4,38 +4,12 @@ I'm a **full stack developer** who specializes in **frontend development**.
 
 ---
 
-## 🔧 Tech Stack
+## 🗂️ Resources that helped me
 
-## Languages
-- JavaScript  
-- TypeScript  
-- Java  
-- Go  
+### Git
 
-## Frameworks & Libraries
-- **Frontend:** React, Vue, Material UI, Tailwind CSS, Vite
-- **State Management:** Redux, Zustand  
-- **Backend:** Spring Boot, Node.js
-
-## Testing
-- Jest  
-
-## Authentication & Security
-- Keycloak  
-
-## Databases
-- PostgreSQL  
-- MongoDB  
-
-## DevOps & Infrastructure
-- Git  
-- Docker  
-- Docker Compose  
-- Nginx  
-- Jenkins  
-
-## Tools & Editors
-- VS Code  
+- [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)
+> An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 
 ---
 
