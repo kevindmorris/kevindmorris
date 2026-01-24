@@ -8,6 +8,7 @@ Software Engineer @ [Vannevar](https://www.vannevarlabs.com/)
 
 #### Git
 - **[Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)** - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
+- [Atlassian Git Tutorials](https://www.atlassian.com/git) - Review git commands and concepts!
 
 #### Linux
 - **[Linux Journey](https://linuxjourney.com/)** - Learn Linux with Free Linux Tutorial & Course
